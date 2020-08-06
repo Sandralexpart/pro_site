@@ -91,7 +91,7 @@ if (isset($newUser)) {
             content="Юридическая и транзакционная AI-платформа,которая предназначена для автоматического составления юридических
             документов и совершения сделок онлайн для юридических, так и физических лиц."
             />
-        <title>Юрист онлайн | Юридическая помощь | lexpart.by</title>
+        <title>Юридическая помощь | lexpart.by: Юрист онлайн</title>
         <link rel="stylesheet" href="assets/styles/font-awesome.min.css" />
         <link rel="stylesheet" href="assets/styles/animate.min.css" />
         <link
