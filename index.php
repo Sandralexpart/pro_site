@@ -86,6 +86,7 @@ if (isset($newUser)) {
             content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
             />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <meta name="yandex-verification" content="f5f01765b1d46ec4" />
         <meta
             name="description"
             content="Юридическая и транзакционная AI-платформа,которая предназначена для автоматического составления юридических
